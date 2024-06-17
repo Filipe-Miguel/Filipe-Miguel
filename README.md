@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Filipe
 - 👀 This is my Git Hub repository
 - 🌱 I’m currently doing the CAS in Applied Data Science
+- Here it is possible to find the repository of raw data from some of the scientific papers I authored. 
 
 
 <!---
